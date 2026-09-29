@@ -17,7 +17,9 @@
 </div>
 
 <!-- ============ TECNOLOGÍAS ============ -->
-<h2 align="center">⚙️ Technologies</h2>
+<div align="center">
+  <img src="title-technologies.svg" alt="Technologies" />
+</div>
 <hr />
 
 <div align="center">
@@ -47,22 +49,26 @@
 </div>
 
 <!-- ============ ESTADÍSTICAS ============ -->
-<h2 align="center">📊 Statistics</h2>
+<div align="center">
+  <img src="title-statistics.svg" alt="Statistics" />
+</div>
 <hr />
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&bg_color=0b1220&color=9db8f0&line=5a8de0&point=ffffff&area=true&area_color=2f5d9f&hide_border=false&title=David%20Angel's%20Contribution%20Graph&title_color=cfe0f7&radius=4" alt="Contribution Graph" />
+  <img width="95%" src="https://ghchart.rshah.org/2f5d9f/TU_USUARIO" alt="Contribution Graph" />
 </div>
 
 <br />
 
 <!-- ============ SOBRE MÍ ============ -->
-<h2 align="center">👤 About Me</h2>
+<div align="center">
+  <img src="title-about.svg" alt="About Me" />
+</div>
 <hr />
 
 <!-- Sin tabla: la imagen flota a la izquierda y el texto la rodea (así no hay bordes).
      Solo se define el ancho; el alto se ajusta solo y respeta la proporción original de la foto. -->
-<img align="left" src="avatar.png" width="300" hspace="20" alt="David Angel" />
+<img align="left" src="avatar.png" width="240" hspace="20" alt="David Angel" />
 
 <p align="center">
   Hello! I'm <b>David Angel</b>, a Systems Engineer specializing in front-end development
@@ -76,7 +82,9 @@
 <br clear="left" />
 
 <!-- ============ HOBBIES & GOALS ============ -->
-<h2 align="center">🎯 Experience & Goals</h2>
+<div align="center">
+  <img src="title-goals.svg" alt="Experience & Goals" />
+</div>
 <hr />
 
 <div align="center">
@@ -84,7 +92,7 @@
   Previously: Web Development Intern at MT Comunicaciones · Web Developer at Angel's Tannery
   <br /><br />
   Systems Engineering — Fundación Universitaria Los Libertadores<br />
-  Learning English at Smart 🇬🇧
-  <br /><br />
-  <b>📍 Bogotá D.C., Colombia</b>
+  <br />
+  <img src="https://img.shields.io/badge/LEARNING%20ENGLISH-1b2a4a?style=for-the-badge&logo=googletranslate&logoColor=cfe0f7" alt="Learning English" />
+  <img src="https://img.shields.io/badge/BOGOT%C3%81%20D.C.%2C%20COLOMBIA-3f6db3?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Bogotá D.C., Colombia" />
 </div>
