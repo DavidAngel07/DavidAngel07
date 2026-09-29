@@ -1,6 +1,6 @@
 <!-- ============ BANNER ============ -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1a33,50:2f5d9f,100:a9c7ee&height=200&section=header&text=Welcome%20to%20David's%20Github&fontSize=28&fontColor=cfe0f7&fontAlignY=38&desc=%3C%2F%3E&descSize=30&descAlignY=60" alt="Banner" />
+  <img width="100%" src="banner.svg" alt="Welcome to David's Github" />
 </div>
 
 <!-- ============ REDES ============ -->
@@ -60,22 +60,20 @@
 <h2 align="center">👤 About Me</h2>
 <hr />
 
-<table align="center">
-  <tr>
-    <td width="35%" align="center">
-      <!-- Sube tu avatar/foto a assets/avatar.png -->
-      <img src="assets/avatar.png" width="200" alt="David Angel" />
-    </td>
-    <td width="65%" align="center">
-      Hello! I'm <b>David Angel</b>, a Systems Engineer specializing in front-end development
-      with <b>React.js and Next.js</b>. I build modern, responsive web applications designed
-      for a great user experience, with experience in API integration, state management and
-      reusable components. I also work in <b>QA test automation</b> (Playwright, Serenity/JS
-      Screenplay, Karate), quality assurance and functional testing, and I'm constantly
-      learning to strengthen my skills in front-end development and software quality.
-    </td>
-  </tr>
-</table>
+<!-- Sin tabla: la imagen flota a la izquierda y el texto la rodea (así no hay bordes).
+     Solo se define el ancho; el alto se ajusta solo y respeta la proporción original de la foto. -->
+<img align="left" src="avatar.png" width="300" hspace="20" alt="David Angel" />
+
+<p align="center">
+  Hello! I'm <b>David Angel</b>, a Systems Engineer specializing in front-end development
+  with <b>React.js and Next.js</b>. I build modern, responsive web applications designed
+  for a great user experience, with experience in API integration, state management and
+  reusable components. I also work in <b>QA test automation</b> (Playwright, Serenity/JS
+  Screenplay, Karate), quality assurance and functional testing, and I'm constantly
+  learning to strengthen my skills in front-end development and software quality.
+</p>
+
+<br clear="left" />
 
 <!-- ============ HOBBIES & GOALS ============ -->
 <h2 align="center">🎯 Experience & Goals</h2>
