@@ -2,6 +2,7 @@
 <div align="center">
   <img width="100%" src="banner.svg" alt="Welcome to David's Github" />
 </div>
+<br>
 
 <!-- ============ REDES ============ -->
 <div align="center">
@@ -15,6 +16,7 @@
     <img src="https://img.shields.io/badge/GMAIL-3f6db3?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
+<br>
 
 <!-- ============ TECNOLOGÍAS ============ -->
 <div align="center">
@@ -47,6 +49,7 @@
   <img src="https://img.shields.io/badge/VERCEL-4a78c2?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/XAMPP-4a78c2?style=for-the-badge&logo=xampp&logoColor=white" />
 </div>
+<br>
 
 <!-- ============ ESTADÍSTICAS ============ -->
 <div align="center">
@@ -68,7 +71,7 @@
 
 <!-- Sin tabla: la imagen flota a la izquierda y el texto la rodea (así no hay bordes).
      Solo se define el ancho; el alto se ajusta solo y respeta la proporción original de la foto. -->
-<img align="left" src="avatar.png" width="240" hspace="20" alt="David Angel" />
+<img align="left" src="avatar-rounded.png" width="240" hspace="20" alt="David Angel" />
 
 <p align="center">
   Hello! I'm <b>David Angel</b>, a Systems Engineer specializing in front-end development
